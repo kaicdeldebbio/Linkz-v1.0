@@ -42,7 +42,6 @@ function escolherAleatorio(lista) {
     return lista[Math.floor(Math.random() * lista.length)];
 }
 
-// Controle para liberar som só após interação do usuário
 let somLiberado = false;
 const som = document.getElementById('somPopup');
 
