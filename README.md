@@ -1,6 +1,6 @@
 <div align="center">
 
-<b>Linkz v1.0 (Custom)</b>
+<b>LinkZ v1.0</b>
 
-<img src="https://imgur.com/ACvvq2B.png" width="500">
+<img src="https://imgur.com/lzgUZjX.png" width="500">
 
