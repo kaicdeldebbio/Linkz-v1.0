@@ -19,3 +19,13 @@
             switchLabel.setAttribute('aria-checked', 'false');
         }
     });
+
+/*
+ ██ ▄█▀ ██ ▄█▀▒███████▒
+ ██▄█▒  ██▄█▒ ▒ ▒ ▒ ▄▀░
+▓███▄░ ▓███▄░ ░ ▒ ▄▀▒░ 
+▓██ █▄ ▓██ █▄   ▄▀▒   ░
+▒██▒ █▄▒██▒ █▄▒███████▒
+▒ ▒▒ ▓▒▒ ▒▒ ▓▒░▒▒ ▓░▒░▒
+Developed by kkZ (@kaicdeldebbio)
+*/
