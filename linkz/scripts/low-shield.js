@@ -28,3 +28,13 @@ document.addEventListener('dragstart', function (e) {
   e.preventDefault();
   return false;
 });
+
+/*
+ ██ ▄█▀ ██ ▄█▀▒███████▒
+ ██▄█▒  ██▄█▒ ▒ ▒ ▒ ▄▀░
+▓███▄░ ▓███▄░ ░ ▒ ▄▀▒░ 
+▓██ █▄ ▓██ █▄   ▄▀▒   ░
+▒██▒ █▄▒██▒ █▄▒███████▒
+▒ ▒▒ ▓▒▒ ▒▒ ▓▒░▒▒ ▓░▒░▒
+Developed by kkZ (@kaicdeldebbio)
+*/
