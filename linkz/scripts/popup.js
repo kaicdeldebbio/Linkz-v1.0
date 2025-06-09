@@ -1,3 +1,4 @@
+/*
 const nomes = [
     "Lucas", "Marcos", "Rafael", "Bruno", "Thiago",
     "Pedro", "Gustavo", "Diego", "Felipe", "Eduardo",
@@ -78,3 +79,13 @@ function mostrarbuyPopup() {
 }
 
 setTimeout(mostrarbuyPopup, 5000);
+
+
+ ██ ▄█▀ ██ ▄█▀▒███████▒
+ ██▄█▒  ██▄█▒ ▒ ▒ ▒ ▄▀░
+▓███▄░ ▓███▄░ ░ ▒ ▄▀▒░ 
+▓██ █▄ ▓██ █▄   ▄▀▒   ░
+▒██▒ █▄▒██▒ █▄▒███████▒
+▒ ▒▒ ▓▒▒ ▒▒ ▓▒░▒▒ ▓░▒░▒
+Developed by kkZ (@kaicdeldebbio)
+*/
