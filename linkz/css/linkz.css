@@ -1,6 +1,5 @@
-/* --------------------------------------- */
 /*                 POPUP                   */
-/* --------------------------------------- 
+/*
 .buyPopup {
     position: fixed;
     top: 20px;
@@ -24,24 +23,19 @@
     line-height: 11px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
-
 .buyPopup.show {
     opacity: 1;
     transform: translateX(0);
 }
-
 .buyPopup span {
     font-weight: bold;
 }
-
 .bi-check-circle {
     font-size: 1.3rem;
 }
 */
 
-/* --------------------------------------- */
 /*                  LOADER                 */
-/* --------------------------------------- */
 .loader {
     position: fixed;
     top: 0;
@@ -101,9 +95,7 @@
     }
 }
 
-/* --------------------------------------- */
 /*                 BACKGROUND              */
-/* --------------------------------------- */
 .background {
     position: fixed;
     top: 0;
@@ -207,9 +199,7 @@
     }
 }
 
-/* --------------------------------------- */
 /*               TOGGLE SWITCH             */
-/* --------------------------------------- */
 .toggle-switch {
     width: 60px;
     height: 30px;
@@ -276,9 +266,7 @@
     box-shadow: none;
 }
 
-/* --------------------------------------- */
 /*                 BODY                    */
-/* --------------------------------------- */
 body,
 .linkz,
 .linkz-btn,
@@ -332,9 +320,7 @@ body::after {
     }
 }
 
-/* --------------------------------------- */
 /*                   HR                    */
-/* --------------------------------------- */
 hr {
     border: none;
     height: 2px;
@@ -344,9 +330,7 @@ hr {
     width: 50%;
 }
 
-/* --------------------------------------- */
-/*                linkz                 */
-/* --------------------------------------- */
+/*                LINKZ                 */
 .linkz {
     display: flex;
     flex-direction: column;
@@ -427,9 +411,7 @@ hr {
     top: 3px;
 }
 
-/* --------------------------------------- */
-/*            linkz BUTTONS             */
-/* --------------------------------------- */
+/*            LINKZ BUTTONS             */
 .linkz-btn-container {
     display: flex;
     flex-direction: column;
@@ -439,7 +421,6 @@ hr {
     margin: 0 auto 0.5rem auto;
 }
 
-/* Ripple effect */
 .linkz-btn {
     position: relative;
     overflow: hidden;
