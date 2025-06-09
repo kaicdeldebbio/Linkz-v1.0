@@ -8,3 +8,13 @@
         star.style.width = star.style.height = `${1 + Math.random() * 2}px`;
         starsBackground.appendChild(star);
     }
+
+/*
+ ██ ▄█▀ ██ ▄█▀▒███████▒
+ ██▄█▒  ██▄█▒ ▒ ▒ ▒ ▄▀░
+▓███▄░ ▓███▄░ ░ ▒ ▄▀▒░ 
+▓██ █▄ ▓██ █▄   ▄▀▒   ░
+▒██▒ █▄▒██▒ █▄▒███████▒
+▒ ▒▒ ▓▒▒ ▒▒ ▓▒░▒▒ ▓░▒░▒
+Developed by kkZ (@kaicdeldebbio)
+*/
