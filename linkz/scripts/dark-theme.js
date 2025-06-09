@@ -1,4 +1,5 @@
-    const toggleCheckbox = document.getElementById('themeToggle');
+/*
+const toggleCheckbox = document.getElementById('themeToggle');
     const currentTheme = localStorage.getItem('theme') || 'dark';
 
     document.documentElement.setAttribute('data-theme', currentTheme);
@@ -20,7 +21,7 @@
         }
     });
 
-/*
+
  ██ ▄█▀ ██ ▄█▀▒███████▒
  ██▄█▒  ██▄█▒ ▒ ▒ ▒ ▄▀░
 ▓███▄░ ▓███▄░ ░ ▒ ▄▀▒░ 
