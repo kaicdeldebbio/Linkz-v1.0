@@ -61,7 +61,7 @@ function mostrarbuyPopup() {
     const nome = escolherAleatorio(nomes);
     const cidade = escolherAleatorio(cidades);
     const plano = escolherAleatorio(planos);
-    texto.innerHTML = `<span>${nome}</span> comprou<br><span>${plano}</span>`;
+    texto.innerHTML = `<span>${nome}</span> adquiriu o<br><span>${plano}</span>`;
     popup.classList.add('show');
 
     if (somLiberado) {
