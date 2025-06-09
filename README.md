@@ -1,9 +1,6 @@
 <div align="center">
 
-# Linkz v1.0 (Custom)
+<b>Linkz v1.0 (Custom)</b>
 
-<img src="https://imgur.com/mpPaaVi.png" width="250">
+<img src="https://imgur.com/ACvvq2B.png" width="500">
 
-<i>Developed by kkZ</i>
-
-</div>
