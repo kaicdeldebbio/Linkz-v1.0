@@ -7,3 +7,13 @@ window.addEventListener("load", () => {
         document.body.classList.remove('loading');
     }, 1000);
 });
+
+/*
+ ██ ▄█▀ ██ ▄█▀▒███████▒
+ ██▄█▒  ██▄█▒ ▒ ▒ ▒ ▄▀░
+▓███▄░ ▓███▄░ ░ ▒ ▄▀▒░ 
+▓██ █▄ ▓██ █▄   ▄▀▒   ░
+▒██▒ █▄▒██▒ █▄▒███████▒
+▒ ▒▒ ▓▒▒ ▒▒ ▓▒░▒▒ ▓░▒░▒
+Developed by kkZ (@kaicdeldebbio)
+*/
