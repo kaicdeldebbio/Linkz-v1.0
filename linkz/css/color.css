@@ -1,0 +1,77 @@
+:root {
+  --hr: rgba(255, 255, 255, 0.35);
+
+  --bg-color: #000000;
+  --text-color: #ffffff;
+  --link-color: white;
+  --link-hover-color: rgb(0, 116, 205);
+
+  --border: 1px solid rgba(255, 255, 255, 0.15);
+  --border-blue: 1px solid rgb(0, 116, 205);
+
+  --loading: white;
+  --bg-loading: rgba(0, 0, 0, 0.5);
+
+  --bg-line-square: rgba(255, 255, 255, 0.15);
+  --bg-noise: rgba(255, 255, 255, 0.15);
+  --bg-star: rgba(255, 255, 255, 0.15);
+
+  --linkz-name: white;
+  --linkz-avatar-border: rgba(255, 255, 255, 0.15);
+  --linkz-email: rgba(255, 255, 255, 0.9);
+  --linkz-icon: white;
+  --linkz-icon-hover: rgb(0, 116, 205);
+  --linkz-role: white;
+  --linkz-btn: transparent;
+  --linkz-btn-title: white;
+  --linkz-btn-description: rgba(255, 255, 255, 0.5);
+  --linkz-btn-hover: rgba(255, 255, 255, 0.15);
+  --linkz-footer: rgba(255, 255, 255, 0.25);
+
+  --footer-bg: rgba(0, 0, 0, 0.3);
+  --footer-color: rgba(255, 255, 255, 0.7);
+
+  --ripple-color: rgba(255, 255, 255, 0.5);
+
+  --shadow-light: 0 4px 10px rgba(255, 255, 255, 0.1);
+  --shadow-dark: 0 4px 10px rgba(0, 0, 0, 0.6);
+}
+
+[data-theme="light"] {
+  --hr: rgb(0, 0, 0);
+
+  --bg-color: #ffffff;
+  --text-color: #000000;
+  --link-color: black;
+  --link-hover-color: rgb(0, 116, 205);
+
+  --border: 1px solid rgba(255, 255, 255, 0.25);
+  --border-blue: 1px solid rgb(0, 116, 205);
+
+  --loading: black;
+  --bg-loading: rgba(255, 255, 255, 0.5);
+
+  --bg-line-square: rgba(0, 0, 0, 0.15);
+  --bg-noise: rgba(0, 0, 0, 0.15);
+  --bg-star: rgba(0, 0, 0, 0.15);
+
+  --linkz-name: black;
+  --linkz-avatar-border: rgba(0, 0, 0, 0.25);
+  --linkz-email: rgba(0, 0, 0, 0.7);
+  --linkz-icon: black;
+  --linkz-icon-hover: rgb(0, 116, 205);
+  --linkz-role: black;
+  --linkz-btn: rgba(0, 0, 0, 0.9);
+  --linkz-btn-title: rgb(255, 255, 255);
+  --linkz-btn-description: rgba(255, 255, 255, 0.5);
+  --linkz-btn-hover: rgb(0, 0, 0);
+  --linkz-footer: rgba(0, 0, 0, 0.25);
+
+  --footer-bg: rgba(255, 255, 255, 0.9);
+  --footer-color: rgba(0, 0, 0, 0.7);
+
+  --ripple-color: rgba(0, 0, 0, 0.1);
+
+  --shadow-light: 0 4px 10px rgba(0, 0, 0, 0.1);
+  --shadow-dark: 0 4px 10px rgba(255, 255, 255, 0.6);
+}
