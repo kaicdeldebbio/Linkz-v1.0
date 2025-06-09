@@ -2,7 +2,7 @@
 
 # Linkz v1.0 (Custom)
 
-<img src="https://imgur.com/mpPaaVi" alt="Linkz v1.0 Screenshot">
+<img src="https://imgur.com/mpPaaVi.png" width="250">
 
 <i>Developed by kkZ</i>
 
